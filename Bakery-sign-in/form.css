@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+html, body {
+  background-color: #e6ccb3;
+  font-family: Open Sans;
+  margin-left: 200px;
+}
+
+.welcome{
+  font-size: 70px;
+  font-weight: bold;
+  color: saddlebrown;
+  font-family: Indie Flower;
+  margin-left: 10px;
+}
+
+.parr{
+  margin-left:0px;
+}
+
+#username{
+  margin-top:10px;
+  font-family: Open Sans;
+  margin-left: 10px;
+}
+
+#user-pass{
+  margin-top:10px;
+  margin-left:12px;
+}
+
+#send{
+  margin-left: 110px;
+  margin-top: 10px;
+}
